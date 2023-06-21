@@ -42,14 +42,7 @@ Each table has three columns: "completed," "none," and "Grand Total." The rows r
 8. Maximum of writing score: This table shows the maximum writing scores achieved by students based on their gender and completion status. The "Grand Total" row shows the highest writing score across all categories.
 
 9. Minimum of writing score: This table indicates the minimum writing scores attained by students based on their gender and completion status. The "Grand Total" row shows the lowest writing score across all categories.
+    
+## Conclusion
 
-## Data Source
-
-The data used to generate these pivot tables is not included in this repository. Please replace the pivot tables with your own data or modify the existing tables as per your requirements.
-
-## Usage
-
-Feel free to utilize the pivot tables in this repository for data analysis or as a template for creating your own dashboard. You can modify the tables to include your own data and customize the presentation according to your needs.
-
-
-Please note that the pivot tables provided in this README are based on the information you shared. If there are any additional details or specific requirements you would like to add, please let me know, and I will be happy to assist you further.
+In conclusion, this README file provides an overview of the pivot tables present in the dashboard. The tables display various statistics related to math, reading, and writing scores, categorized by gender and completion status. These pivot tables offer valuable insights into the performance of students based on different factors.The tables present the average, maximum, and minimum scores for each category, allowing users to assess the overall trends and performance metrics. By examining the data, it becomes evident that male students generally achieve higher scores compared to their female counterparts. Additionally, completion status appears to have a significant impact on scores, with completed assignments correlating to higher average scores across all subjects.
